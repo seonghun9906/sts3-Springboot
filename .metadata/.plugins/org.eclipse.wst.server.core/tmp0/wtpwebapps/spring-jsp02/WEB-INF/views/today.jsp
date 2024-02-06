@@ -41,10 +41,12 @@
 
 	<hr>
 	<h2>숫자의 출력 형식</h2>
+
 	<p>
 		예 1 :
 		<fmt:formatNumber value="123456789" groupingUsed="false" />
 		<!-- True면 123,456,789 형식으로 나옴 -->
+		
 	</p>
 	<p>
 		예 2 :

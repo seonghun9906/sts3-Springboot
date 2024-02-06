@@ -1,0 +1,5 @@
+package com.icia.movieinfo.dto;
+
+public class MovieDto {
+
+}
