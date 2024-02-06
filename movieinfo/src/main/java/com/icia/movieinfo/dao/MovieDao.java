@@ -5,7 +5,7 @@ import java.util.List;
 import com.icia.movieinfo.dto.MovieDto;
 
 public interface MovieDao {
-	List<MovieDto> getmovieList(); 
+	List<MovieDto> getMovieList(); 
 }
 
 //java <-> Mybatis(xml)

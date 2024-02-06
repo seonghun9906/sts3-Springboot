@@ -1,0 +1,5 @@
+package com.icia.movieinfo.service;
+
+public class MovieService {
+
+}
