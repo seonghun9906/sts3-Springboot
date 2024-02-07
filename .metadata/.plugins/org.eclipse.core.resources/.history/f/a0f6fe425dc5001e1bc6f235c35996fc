@@ -1,0 +1,12 @@
+package com.icia.movieinfo.dao;
+
+import java.util.List;
+import java.util.Map;
+
+import com.icia.movieinfo.dto.MovieDto;
+
+public interface MovieDao {
+	List<MovieDto> getMovieList(Map<String, Integere> pMap); 
+}
+
+//java <-> Mybatis(xml)
