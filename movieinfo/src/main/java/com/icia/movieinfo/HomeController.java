@@ -76,4 +76,18 @@ public class HomeController {
 		return view;
 		
 	}
+	
+	//삭제 데이터 처리
+	@GetMapping("delete")
+	public String deleteMovie(Integer m_code,
+								HttpSession session,
+								RedirectAttributes rttr) {
+		log.info("deleteMovie()");
+		String view = mServ.movieDelete(m_code, session, rttr);
+		return view;
+	}
+	
+	
+	
+	
 }// class end

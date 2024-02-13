@@ -162,4 +162,8 @@ Data Update 처리
 		기존 파일 삭제 후 새 파일을 저장.
 		
 
-	
+프로젝트 주제 선정 -> 프로젝트 기획(의도, 벤치마킹, 기능 선정 등)
+			-> 스토리 보드 작성 -> 잡리스트(DB 설꼐) -> 구현
+			
+Data Delete 처리
+	detail.jsp -> delete(url) Controller -> Service(파일 삭제) -> Dao
