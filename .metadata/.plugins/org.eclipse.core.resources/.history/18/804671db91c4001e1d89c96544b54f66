@@ -1,9 +1,0 @@
-DB 관련 설정 -> root-context.xml
-1) DataSource (DB)
-	- 드라이버 클래스
-	- DB까지의 경로(URL)
-	- DB 게정 이름
-	- DB 게정 비밀번호
-2) SqlSessionFactory (MyBatis)
-	MyBatis를 위한 클래스(인터페이스) scanning
-3) Transaction 관련

@@ -1,5 +1,0 @@
-package com.icia.movieinfo.dao;
-
-public interface MovieDao {
-
-}

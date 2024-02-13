@@ -1,4 +1,0 @@
-패키지 만들었을시 순서
-pom.xml에 버전 변경 및 추가 라이브러리 작성
-Project Facets 변경
-web.xml 인코딩 필터 작성

@@ -33,7 +33,6 @@ INDEX VERSION 1.131+C:\sts3-work\.metadata\.plugins\org.eclipse.jdt.core
 3552887665.index
 453936123.index
 1474258149.index
-3623962672.index
 845633921.index
 1944929192.index
 2444119914.index

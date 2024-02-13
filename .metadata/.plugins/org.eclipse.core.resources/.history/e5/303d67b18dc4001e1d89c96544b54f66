@@ -1,4 +1,0 @@
-DB 관련 설정 -> root-context.xml
-1) DataSource (DB)
-
-2) SqlSessionFactory (MyBatis)
